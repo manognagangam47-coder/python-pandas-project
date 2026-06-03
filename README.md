@@ -1,0 +1,1 @@
+Pandas CSV Reader and Basic Analysis is a Python project that uses the Pandas library to read and analyze CSV data. It displays records, checks data types, calculates statistics like mean, median, min, max, and count, filters rows, selects columns, extracts subsets, and saves processed data to a new CSV file.
